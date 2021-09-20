@@ -4,6 +4,7 @@ RENCANA BELAJAR DATA SCIENCE
 + Mempelajari aljabar linear untuk data science
 + Mempelajari bahasa pemrograman python
 + Mempelajari bahasa R
+  - R analytics
 + Mempelajari databases
   - Belajar MySQL
   - Belajar MariaDB
