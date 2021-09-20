@@ -3,4 +3,6 @@ RENCANA BELAJAR DATA SCIENCE
 + Mempelajari Kalkulus dan logika matematika
 + Mempelajari aljabar linear untuk data science
 + Mempelajari bahasa pemrograman python
-+ Mempelajari database SQL
++ Mempelajari databases
+  - Belajar MySQL
+  - Belajar MariaDB
